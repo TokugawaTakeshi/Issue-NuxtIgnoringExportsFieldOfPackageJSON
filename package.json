@@ -1,0 +1,19 @@
+{
+  "private": "true",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "devDependencies": {
+    "@nuxt/types": "2.15.5",
+    "@nuxt/typescript-build": "2.1.0",
+    "nuxt-property-decorator": "2.9.1",
+    "ts-node": "9.1.1",
+    "tsconfig-paths": "3.9.0",
+    "typescript": "4.3.5",
+    "webpack": "4.46.0"
+  },
+  "dependencies": {
+    "@yamato-daiwa/es-extensions": "0.4.0",
+    "nuxt": "2.15.5"
+  }
+}
